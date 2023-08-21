@@ -8,11 +8,13 @@ PARKEASY is an innovative web application designed to streamline parking space r
 
 .NET ASP.NET: Our backend is built on .NET ASP.NET, providing advanced features for handling HTTP requests, security, and user authentication.
 Microsoft SQL Server: Integrated into our architecture, it efficiently manages data related to parking spaces, reservations, and more.
+
 🔹 Key Benefits :
 
 Efficiency: Easily and instantly reserve parking spaces, avoiding hassles and delays.
 Flexibility: With our Microsoft SQL Server database, we can seamlessly adapt our system to changing needs.
 Enhanced User Experience: Our responsive user interface, based on .NET ASP.NET, ensures a smooth and intuitive experience.
+
 🔹 Contributions : We welcome the GitHub community to explore, contribute, and collaborate in the ongoing enhancement of PARKEASY. Your feedback and suggestions are highly valued!
 
 🔹 Next Steps : Our roadmap includes expanding features, optimizing performance, and ensuring an even more delightful experience for students.
